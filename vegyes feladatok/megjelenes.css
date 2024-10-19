@@ -69,6 +69,8 @@ ul>li{
     margin-right: 50px;
     padding-top: 30px;
     padding-bottom: 30px;
+    /*betűtipus váltás*/
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #szoveg a{
